@@ -1,0 +1,6 @@
+# This assigns ownership of all files in the submodule to specific users or teams.
+* @username1 @username2
+
+# Ownership for specific files or directories
+/test.txt @developweb10
+/components/ @Reviewers
